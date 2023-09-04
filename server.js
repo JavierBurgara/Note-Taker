@@ -1,5 +1,7 @@
 // Dependencies
 const express = require('express');
+const path = require('path');
+const routes = require('./public/api-routes')
 
 // App uses express
 const app = express();
@@ -18,16 +20,10 @@ app.use(express.json());
 app.get('/', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/index.html'))
 );
-app.get('/', (req, res) =>
+app.get('/notes', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
-app.get('/', (req, res) =>
-  res.sendFile(path.join(__dirname, './public/api-routes'))
-);
-app.get('/', (req, res) =>
-  res.sendFile(path.join(__dirname, './public/html-routes'))
-);
-
+app.use('/api',routes)
 
 // App listener - starts the server
 app.listen(PORT, () =>

@@ -6,11 +6,11 @@ module.exports = (app) => {
 
   // Creating Routes get'notes' should return to the notes.html file
   app.get('/notes', (req, res) => {
-    res.sendFile(path.join(__dirname, '../public/notes.html'));
+    res.sendFile(path.join(__dirname, '.notes.html'));
   });
 
   // Get '*' should return to the index.html file
   app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, '../public/index.html'));
+    res.sendFile(path.join(__dirname, '.index.html'));
   })
 };
