@@ -1,7 +1,7 @@
 # Note Taker Starter Code
 
 ## Description
-
+Note taker is applcation, where you can store several events that you have that day or coming up in couple days. Its helps you stay orgainze and manage your events or activites for that week.
 ## Deployed Application URL
 https://javierburgara.github.io/Note-Taker/
 ## Screenshot
