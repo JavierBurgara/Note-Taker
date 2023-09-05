@@ -3,7 +3,7 @@
 ## Description
 
 ## Deployed Application URL
-N/A
+https://javierburgara.github.io/Note-Taker/
 ## Screenshot
 ![Alt text](image-1.png)
 ## Table of Contents
@@ -24,8 +24,9 @@ HTML,JavaScript,Node,Jest
 ## Contributors
 None
 ## Testing
-walk through the application https://drive.google.com/file/d/1M9dGc1tLPRa7Cx6BAgiGW35bZ6wHLVZn/view
-link to working website https://javierburgara.github.io/Note-Taker/
+ https://drive.google.com/file/d/1M9dGc1tLPRa7Cx6BAgiGW35bZ6wHLVZn/view
+ video of application working and fulling functional
+
 
 ## Contact-Me
   * Name - JavierBurgara
