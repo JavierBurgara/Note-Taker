@@ -5,7 +5,7 @@
 ## Deployed Application URL
 N/A
 ## Screenshot
-![alt-text](N/A)
+![Alt text](image-1.png)
 ## Table of Contents
 * [Description](#description)
 * [Features](#features)
@@ -25,9 +25,8 @@ HTML,JavaScript,Node,Jest
 None
 ## Testing
 walk through the application https://drive.google.com/file/d/1M9dGc1tLPRa7Cx6BAgiGW35bZ6wHLVZn/view
-link website https://javierburgara.github.io/Note-Taker/
-## Image
-![Alt text](image-1.png)
+link to working website https://javierburgara.github.io/Note-Taker/
+
 ## Contact-Me
   * Name - JavierBurgara
   * Email - Javierburgara150@yahoo.com
