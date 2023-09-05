@@ -24,7 +24,8 @@ HTML,JavaScript,Node,Jest
 ## Contributors
 None
 ## Testing
-https://drive.google.com/file/d/1M9dGc1tLPRa7Cx6BAgiGW35bZ6wHLVZn/view
+walk through the application https://drive.google.com/file/d/1M9dGc1tLPRa7Cx6BAgiGW35bZ6wHLVZn/view
+link website https://javierburgara.github.io/Note-Taker/
 ## Image
 ![Alt text](image-1.png)
 ## Contact-Me
